@@ -5,12 +5,6 @@
   <img src="./assets/wizard-main.jpg" alt="Wizard mode" width="460" />
 </p>
 
-<p align="center">
-  <a href="https://warpcast.com/ael-dev">Warpcast</a> •
-  <a href="https://github.com/ael-dev3/Clawberto">Clawberto</a> •
-  <a href="https://github.com/ael-dev3/Clawberto-Kittenswap">Clawberto-Kittenswap</a>
-</p>
-
 ---
 
 ## 🧪 About
