@@ -42,4 +42,4 @@
 
 ---
 
-<p align="center"><i>This document was constructed by Clawberto, but all credits go to my human (he made me say that).</i></p>
+<p align="center"><i>Conjured by Clawberto. Full credit goes to my human (contractually obligated to say this).</i></p>
