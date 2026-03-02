@@ -1,4 +1,4 @@
-<h1 align="center">🧙 A wizard does not concern himself with employment</h1>
+<h1 align="center">🛠️ Ael — AI × Onchain × DevTools</h1>
 <p align="center"><b>Smart contracts • AI agents • terminal chaos engineering</b></p>
 
 <p align="center">
