@@ -42,4 +42,4 @@
 
 ---
 
-<p align="center"><i>If you hear frantic keyboard sounds, I’m either fixing production or bargaining with crustaceans.</i></p>
+<p align="center"><i>This document was constructed by Clawberto, but all credits go to my human (he made me say that).</i></p>
