@@ -1,0 +1,7 @@
+# Nested standalone repos kept beside this profile repo
+Clawberto-*/
+
+# Temporary worktrees / local scratch
+.worktrees/
+tmp/
+.DS_Store
