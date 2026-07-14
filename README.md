@@ -1,5 +1,5 @@
-<h1 align="center">🛠️ Ael — AI × Onchain × DevTools</h1>
-<p align="center"><b>Smart contracts • AI agents • terminal chaos engineering</b></p>
+<h1 align="center">🧙 Ael — AI × Games × Data</h1>
+<p align="center"><b>TypeScript worlds • Python data pipes • Codex/Hermes herding</b></p>
 
 <p align="center">
   <img src="./assets/wizard-main.jpg" alt="Wizard mode" width="460" />
@@ -9,51 +9,45 @@
 
 ## 🧪 About
 
-- Professional in **untangling AI slop** into shippable systems.
-- Frequently found **drowning in CLI windows** while pretending this is fine.
-- Ongoing labor dispute with lobsters about why they should do my work for free.
-- Building where **onchain infra, autonomous agents, and controlled chaos** overlap.
+- Building **Farcaster-native games, onchain data systems, and guarded automation** that occasionally behaves on the first try.
+- Most at home in **TypeScript, React, and Three.js**; summon **Python and SQL** when the data needs questioning.
+- Current party: **Codex + Hermes**. I provide product direction, taste, and the phrase “one last tiny change.”
+- Into deterministic game systems, real-time backends, custom shaders, data pipelines, and shipping the weird idea instead of making another pitch deck.
 
-## ⚙️ Proficiencies
+## 🤖 Party Composition
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Slop-Untangler-7d3cff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Terminal%20Tabs-Too%20Many-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lobster%20Negotiations-Ongoing-d73a49?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Employment-Not%20My%20Primary%20Concern-2da44e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Codex-Primary%20Builder-111111?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hermes-Operations%20Familiar-6C5CE7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Human-In%20The%20Loop%20(Allegedly)-2DA44E?style=for-the-badge" />
 </p>
 
-## 🧰 Stack
+Agents write code. I write increasingly specific acceptance criteria.
+
+## 🧰 Stack I’m Actually Using
 
 <p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpacetimeDB-Realtime%20Backend-654FF0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white" />
+  <img src="https://img.shields.io/badge/Farcaster-855DCD?style=for-the-badge&logo=farcaster&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-## ✨ Current Arc
+Also in rotation: **WebGL/GLSL, glTF/GLB pipelines, Vitest, Firebase/Firestore, Deno, DuneSQL, Base + HyperEVM JSON-RPC, and GitHub Pages**.
 
-- Hardening autonomous LP/rebalance agents
-- Shipping cleaner operator workflows for heartbeat + guardrails
-- Turning “it works on my machine” into an actual reproducible spell
+## 🚧 Current Arc
 
-## 🧠 Operational Memory
-
-Useful sanitized learnings and debugging patterns live here:
-
-- [`docs/agent-notes/2026-03-08-sanitized-learnings.md`](./docs/agent-notes/2026-03-08-sanitized-learnings.md)
-
-Topics captured so far:
-- hosted static app debugging
-- CORS-safe runtime cache patterns
-- Bitcraft live-feed integration lessons
-- map label/dot UX rules
-- OpenClaw concurrent work patterns
-- heartbeat output design lessons
+- **[Warpkeep](https://github.com/ael-dev3/Warpkeep)** — a Farcaster-native asynchronous strategy world built with React, TypeScript, Three.js/WebGL, SpacetimeDB, and Cloudflare Workers.
+- **[Degen Dogs Mission 3](https://github.com/ael-dev3/Degen-Dogs-Mission-3) + [DegenDogs DAO](https://github.com/ael-dev3/DegenDogs-DAO)** — Base event indexing, Python/SQLite analytics, and a TypeScript/Firebase Farcaster Mini App.
+- **[Kittenswap operator tooling](https://github.com/ael-dev3/Clawberto-Kittenswap)** — dependency-free Node.js + Python automation with transaction simulation, verification, telemetry, and enough guardrails to qualify as furniture.
 
 ---
 
-<p align="center"><i>Conjured by Clawberto. Full credit goes to my human (contractually obligated to say this).</i></p>
+<p align="center"><i>Built with Codex + Hermes. The lobster is now retained for ceremonial duties only.</i></p>
