@@ -44,7 +44,7 @@ Also in rotation: **WebGL/GLSL, glTF/GLB pipelines, Vitest, Firebase/Firestore, 
 
 ## 🚧 Current Arc
 
-- **[Warpkeep](https://github.com/ael-dev3/Warpkeep)** — a Farcaster-native asynchronous strategy world built with React, TypeScript, Three.js/WebGL, SpacetimeDB, and Cloudflare Workers.
+- **[Warpkeep](https://github.com/ael-dev3/Warpkeep)** — a persistent Farcaster strategy realm where every admitted founder has a durable castle in Genesis 001.
 - **[Degen Dogs Mission 3](https://github.com/ael-dev3/Degen-Dogs-Mission-3) + [DegenDogs DAO](https://github.com/ael-dev3/DegenDogs-DAO)** — Base event indexing, Python/SQLite analytics, and a TypeScript/Firebase Farcaster Mini App.
 - **[Kittenswap operator tooling](https://github.com/ael-dev3/Clawberto-Kittenswap)** — dependency-free Node.js + Python automation with transaction simulation, verification, telemetry, and enough guardrails to qualify as furniture.
 
