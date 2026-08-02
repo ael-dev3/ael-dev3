@@ -1,10 +1,6 @@
 <h1 align="center">🧙 Ael — AI × Games × Data</h1>
 <p align="center"><b>TypeScript worlds • Python data pipes • Codex/Hermes herding</b></p>
 
-<p align="center">
-  <img src="./assets/wizard-main.jpg" alt="Wizard mode" width="460" />
-</p>
-
 ---
 
 ## 🧪 About
