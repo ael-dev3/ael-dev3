@@ -28,12 +28,6 @@ Built a reconstructable onchain analytics and archive pipeline that reads Base R
 
 Built a playable two-faction fantasy strategy game with **eight units and four building types**, grid deployment, persistent army progression, seeded enemy AI, pathfinding, touch controls, and data-driven combat mechanics. The engine separates domain, simulation, AI, rendering, input, and audio layers; releases are gated by production builds, deterministic gameplay regressions, and automated architecture contracts.
 
-### [Farcaster Context](https://github.com/ael-dev3/Clawberto-Farcaster-Context) — social data pipeline
-
-[Live site](https://ael-dev3.github.io/Clawberto-Farcaster-Context/) · Python · Hypersnap/Snapchain · Vite
-
-Built a direct node-scraping pipeline that converts rolling Farcaster activity into a searchable static site and downloadable CSV/JSON datasets. A documented 24-hour snapshot processed **10,426 casts from 2,524 unique authors** and published structured author, post, comment, theme, and engagement tables.
-
 ## Technical stack · spellbook
 
 **Languages:** TypeScript, JavaScript, Python, SQL, HTML, CSS, GLSL  
