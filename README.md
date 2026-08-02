@@ -4,7 +4,6 @@
 
 I design, implement, test, and ship browser-based products across interactive 3D, persistent multiplayer state, Farcaster identity, and reproducible blockchain analytics. I build persistent worlds and deterministic systems—the kind of engineering that should still work after the magic wears off.
 
-**Open to:** full-time and contract roles in frontend, full-stack, game, and real-time web engineering.  
 **Links:** [Warpkeep](https://warpkeep.com/) · [GitHub](https://github.com/ael-dev3) · [Warpkeep on Farcaster](https://farcaster.xyz/~/channel/warpkeep)
 
 ## Selected projects
