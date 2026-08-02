@@ -12,7 +12,7 @@ I design, implement, test, and ship browser-based products across interactive 3D
 
 [Live Alpha](https://warpkeep.com/) · React · TypeScript · Three.js/WebGL · SpacetimeDB · Cloudflare Workers · Farcaster
 
-Built and shipped a browser and Farcaster Mini App strategy world with a server-authoritative, persistent realm. Genesis 001 contains **10,000 world cells, 100 durable castle sites, 12 rivers, and four asynchronous Workers per keep**. The system covers verified identity and admission, persistent ownership and resources, worker journeys, mobile/desktop rendering, additive database migrations, operational tooling, asset provenance, and release verification.
+Built and shipped a browser and Farcaster Mini App strategy world with a server-authoritative, persistent realm. The live invite-only Alpha currently serves a founding cohort of **approximately eight admitted Farcaster players**, each returning to a durable keep with four asynchronous Workers. The system covers verified identity and admission, persistent ownership and resources, worker journeys, mobile/desktop rendering, additive database migrations, operational tooling, asset provenance, and release verification.
 
 [![Warpkeep Genesis 001 realm](https://raw.githubusercontent.com/ael-dev3/Warpkeep/main/docs/reference/screenshots/2026-08-02-alpha-0.3.43-launch/warpkeep-alpha-0.3.43-genesis-001.png)](https://warpkeep.com/)
 
