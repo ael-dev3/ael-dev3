@@ -1,8 +1,8 @@
-# Ael
+# 🧙 Ael — Full-Stack & Game Engineer
 
-**Full-stack and game engineer specializing in real-time TypeScript systems, WebGL/Three.js, and onchain data pipelines.**
+**Specializing in real-time TypeScript systems, WebGL/Three.js, and onchain data pipelines.**
 
-I design, implement, test, and ship browser-based products across interactive 3D, persistent multiplayer state, Farcaster identity, and reproducible blockchain analytics.
+I design, implement, test, and ship browser-based products across interactive 3D, persistent multiplayer state, Farcaster identity, and reproducible blockchain analytics. I build persistent worlds and deterministic systems—the kind of engineering that should still work after the magic wears off.
 
 **Open to:** full-time and contract roles in frontend, full-stack, game, and real-time web engineering.  
 **Links:** [Warpkeep](https://warpkeep.com/) · [GitHub](https://github.com/ael-dev3) · [Warpkeep on Farcaster](https://farcaster.xyz/~/channel/warpkeep)
@@ -27,7 +27,7 @@ Built a reconstructable onchain analytics and archive pipeline that reads Base R
 
 [Play](https://ael-dev3.github.io/Ashen-Hallow/) · TypeScript · Canvas · Vite
 
-Built a playable two-faction fantasy strategy game with **eight units, four building types**, grid deployment, persistent army progression, seeded enemy AI, pathfinding, touch controls, and data-driven combat mechanics. The engine separates domain, simulation, AI, rendering, input, and audio layers; releases are gated by production builds, deterministic gameplay regressions, and automated architecture contracts.
+Built a playable two-faction fantasy strategy game with **eight units and four building types**, grid deployment, persistent army progression, seeded enemy AI, pathfinding, touch controls, and data-driven combat mechanics. The engine separates domain, simulation, AI, rendering, input, and audio layers; releases are gated by production builds, deterministic gameplay regressions, and automated architecture contracts.
 
 ### [Farcaster Context](https://github.com/ael-dev3/Clawberto-Farcaster-Context) — social data pipeline
 
@@ -35,7 +35,7 @@ Built a playable two-faction fantasy strategy game with **eight units, four buil
 
 Built a direct node-scraping pipeline that converts rolling Farcaster activity into a searchable static site and downloadable CSV/JSON datasets. A documented 24-hour snapshot processed **10,426 casts from 2,524 unique authors** and published structured author, post, comment, theme, and engagement tables.
 
-## Technical stack
+## Technical stack · spellbook
 
 **Languages:** TypeScript, JavaScript, Python, SQL, HTML, CSS, GLSL  
 **Frontend and graphics:** React, Three.js, WebGL, Canvas, responsive UI, Vite  
@@ -49,3 +49,5 @@ Built a direct node-scraping pipeline that converts rolling Farcaster activity i
 I run an AI-augmented engineering workflow using Codex and Hermes to increase research, implementation, and QA throughput. I remain accountable for architecture, implementation choices, code review, testing strategy, security boundaries, acceptance criteria, and release decisions.
 
 I enjoy building systems that are deterministic where correctness matters, expressive where users feel them, and documented well enough to recover.
+
+> Build the realm. Define the rules. Test the magic.
