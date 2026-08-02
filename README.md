@@ -1,49 +1,51 @@
-<h1 align="center">🧙 Ael — AI × Games × Data</h1>
-<p align="center"><b>TypeScript worlds • Python data pipes • Codex/Hermes herding</b></p>
+# Ael
 
----
+**Full-stack and game engineer specializing in real-time TypeScript systems, WebGL/Three.js, and onchain data pipelines.**
 
-## 🧪 About
+I design, implement, test, and ship browser-based products across interactive 3D, persistent multiplayer state, Farcaster identity, and reproducible blockchain analytics.
 
-- Building **Farcaster-native games, onchain data systems, and guarded automation** that occasionally behaves on the first try.
-- Most at home in **TypeScript, React, and Three.js**; summon **Python and SQL** when the data needs questioning.
-- Current party: **Codex + Hermes**. I provide product direction, taste, and the phrase “one last tiny change.”
-- Into deterministic game systems, real-time backends, custom shaders, data pipelines, and shipping the weird idea instead of making another pitch deck.
+**Open to:** full-time and contract roles in frontend, full-stack, game, and real-time web engineering.  
+**Links:** [Warpkeep](https://warpkeep.com/) · [GitHub](https://github.com/ael-dev3) · [Warpkeep on Farcaster](https://farcaster.xyz/~/channel/warpkeep)
 
-## 🤖 Party Composition
+## Selected projects
 
-<p>
-  <img src="https://img.shields.io/badge/Codex-Primary%20Builder-111111?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hermes-Operations%20Familiar-6C5CE7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Human-In%20The%20Loop%20(Allegedly)-2DA44E?style=for-the-badge" />
-</p>
+### [Warpkeep](https://github.com/ael-dev3/Warpkeep) — persistent multiplayer strategy world
 
-Agents write code. I write increasingly specific acceptance criteria.
+[Live Alpha](https://warpkeep.com/) · React · TypeScript · Three.js/WebGL · SpacetimeDB · Cloudflare Workers · Farcaster
 
-## 🧰 Stack I’m Actually Using
+Built and shipped a browser and Farcaster Mini App strategy world with a server-authoritative, persistent realm. Genesis 001 contains **10,000 world cells, 100 durable castle sites, 12 rivers, and four asynchronous Workers per keep**. The system covers verified identity and admission, persistent ownership and resources, worker journeys, mobile/desktop rendering, additive database migrations, operational tooling, asset provenance, and release verification.
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpacetimeDB-Realtime%20Backend-654FF0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white" />
-  <img src="https://img.shields.io/badge/Farcaster-855DCD?style=for-the-badge&logo=farcaster&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
+[![Warpkeep Genesis 001 realm](https://raw.githubusercontent.com/ael-dev3/Warpkeep/main/docs/reference/screenshots/2026-08-02-alpha-0.3.43-launch/warpkeep-alpha-0.3.43-genesis-001.png)](https://warpkeep.com/)
 
-Also in rotation: **WebGL/GLSL, glTF/GLB pipelines, Vitest, Firebase/Firestore, Deno, DuneSQL, Base + HyperEVM JSON-RPC, and GitHub Pages**.
+### [Degen Dogs Mission 3 Analytics](https://github.com/ael-dev3/Degen-Dogs-Mission-3) — reproducible Base analytics
 
-## 🚧 Current Arc
+[Live dashboard](https://ael-dev3.github.io/Degen-Dogs-Mission-3/) · Python · SQL/SQLite · Base/EVM · Vite · GitHub Pages
 
-- **[Warpkeep](https://github.com/ael-dev3/Warpkeep)** — a persistent Farcaster strategy realm where every admitted founder has a durable castle in Genesis 001.
-- **[Degen Dogs Mission 3](https://github.com/ael-dev3/Degen-Dogs-Mission-3) + [DegenDogs DAO](https://github.com/ael-dev3/DegenDogs-DAO)** — Base event indexing, Python/SQLite analytics, and a TypeScript/Firebase Farcaster Mini App.
-- **[Kittenswap operator tooling](https://github.com/ael-dev3/Clawberto-Kittenswap)** — dependency-free Node.js + Python automation with transaction simulation, verification, telemetry, and enough guardrails to qualify as furniture.
+Built a reconstructable onchain analytics and archive pipeline that reads Base RPC and contract data, decodes it in Python, executes an approved SQLite query layer, and publishes inspectable CSV/JSON datasets and a static dashboard. The checked-in pipeline cross-verifies current state across providers, covers **200+ auctions**, unifies Mission 1–3 search, and includes automated consistency checks, refresh telemetry, recovery runbooks, and hourly publishing support.
 
----
+### [Ashen Hallow](https://github.com/ael-dev3/Ashen-Hallow) — deterministic browser autobattler
 
-<p align="center"><i>Built with Codex + Hermes. The lobster is now retained for ceremonial duties only.</i></p>
+[Play](https://ael-dev3.github.io/Ashen-Hallow/) · TypeScript · Canvas · Vite
+
+Built a playable two-faction fantasy strategy game with **eight units, four building types**, grid deployment, persistent army progression, seeded enemy AI, pathfinding, touch controls, and data-driven combat mechanics. The engine separates domain, simulation, AI, rendering, input, and audio layers; releases are gated by production builds, deterministic gameplay regressions, and automated architecture contracts.
+
+### [Farcaster Context](https://github.com/ael-dev3/Clawberto-Farcaster-Context) — social data pipeline
+
+[Live site](https://ael-dev3.github.io/Clawberto-Farcaster-Context/) · Python · Hypersnap/Snapchain · Vite
+
+Built a direct node-scraping pipeline that converts rolling Farcaster activity into a searchable static site and downloadable CSV/JSON datasets. A documented 24-hour snapshot processed **10,426 casts from 2,524 unique authors** and published structured author, post, comment, theme, and engagement tables.
+
+## Technical stack
+
+**Languages:** TypeScript, JavaScript, Python, SQL, HTML, CSS, GLSL  
+**Frontend and graphics:** React, Three.js, WebGL, Canvas, responsive UI, Vite  
+**Backends and data:** Node.js, Deno, SpacetimeDB, SQLite, Firebase/Firestore, Cloudflare Workers  
+**Web3:** Farcaster SDK and Auth, Base/EVM, viem, JSON-RPC, contract calls, event indexing, DuneSQL  
+**Quality and delivery:** Vitest, deterministic regression testing, architecture contracts, GitHub Actions, GitHub Pages, migration and recovery runbooks  
+**Asset pipelines:** glTF/GLB, mesh optimization, runtime asset verification, provenance and licensing controls
+
+## How I work
+
+I run an AI-augmented engineering workflow using Codex and Hermes to increase research, implementation, and QA throughput. I remain accountable for architecture, implementation choices, code review, testing strategy, security boundaries, acceptance criteria, and release decisions.
+
+I enjoy building systems that are deterministic where correctness matters, expressive where users feel them, and documented well enough to recover.
