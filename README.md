@@ -6,7 +6,7 @@ I work across interactive 3D, real-time backends, Farcaster, and data pipelines.
 My focus is the complete product: how it feels, how its state behaves, and how it
 can be tested, operated, and improved over time.
 
-[Warpkeep](https://warpkeep.com/) · [Warpkeep on Farcaster](https://farcaster.xyz/~/channel/warpkeep)
+[Warpkeep](https://warpkeep.com/) · [Farcaster](https://farcaster.xyz/0xael.eth)
 
 ## Building Warpkeep
 
@@ -37,6 +37,9 @@ and recovery tooling.
 | [Clawberto Farcaster Context](https://github.com/ael-dev3/Clawberto-Farcaster-Context) | Searchable daily context from Farcaster node data, with linked conversations and reusable CSV/JSON exports. [Explore context](https://ael-dev3.github.io/Clawberto-Farcaster-Context/) |
 | [Degen Dogs Mission 3](https://github.com/ael-dev3/Degen-Dogs-Mission-3) | Independent community analytics on Base, with an inspectable archive and a reproducible Python and SQLite dashboard pipeline. [Explore dashboard](https://ael-dev3.github.io/Degen-Dogs-Mission-3/) |
 | [Ashen Hallow](https://github.com/ael-dev3/Ashen-Hallow) | A browser fantasy autobattler with deterministic simulation, tactical deployment, and army progression across rounds. [Play](https://ael-dev3.github.io/Ashen-Hallow/) |
+
+Browse the [full project catalog](PROJECTS.md) for more tools, prototypes,
+research, creative work and source archives.
 
 ## Engineering practice
 
