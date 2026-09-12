@@ -14,5 +14,14 @@ release ledger or a substitute for individual project documentation.
   paths, credentials, or operational details in the public profile.
 - Preserve the owner's identity and links unless asked to change them. Verify
   destinations and readable Markdown before committing.
-- Review and scan the exact outgoing changes, push without force, and verify
-  remote equality. Keep metadata and README wording consistent.
+- Commit and push each completed profile change after checking its claims and
+  links. Before handing off, publish all durable work authored for the task,
+  including unfinished changes with their limitations clearly stated.
+- Fetch the verified owning remote, resolve the current authorized branch, stage
+  exact reviewed paths, and scan the entire outgoing commit range for secrets.
+  Push the full reviewed SHA without force and verify the live remote ref.
+  Preserve unrelated edits and private data. If publication fails, retain the
+  work, record the exact failure, and retry when it clears. Do not recreate a
+  merged or deleted branch or redirect unfinished work into main automatically.
+  Keep metadata and README wording consistent; Git synchronization alone does
+  not update profile settings.
