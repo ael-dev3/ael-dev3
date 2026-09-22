@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ael</h1>
 
 <p align="center">
-  <img src="assets/wizard-main.jpg" width="600" alt="A blue-robed wizard in a forest. Caption: A wizard does not concern himself with employment.">
+  <img src="assets/wizard-clean.png" width="600" alt="A blue-robed wizard in a forest. Caption: A wizard does not concern himself with employment.">
 </p>
 
 <p align="center">Just cooking up a little digital magic. Games, web tools, and lyric videos.</p>
