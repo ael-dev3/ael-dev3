@@ -1,12 +1,10 @@
-# Fortress inventory
+# Projects
 
-The other rooms in the workshop: games, community tools, research, and unfinished
-experiments. Everything has a label; a few things are still under construction.
-Each entry says what it does and where it stands. Source, setup, and limitations
-live in the linked repositories. Status labels reflect the documentation and
-source reviewed in September 2026.
+Public work in games, community tools, data, and creative coding. Each entry
+describes the project and its current status, with source and documentation in
+the linked repository. Status labels reflect the material reviewed in September 2026.
 
-[Back to the sky fortress](README.md) · [Warpkeep](#warpkeep) · [Farcaster](#farcaster-and-social-tools) ·
+[Profile](https://github.com/ael-dev3) · [Warpkeep](#warpkeep) · [Farcaster](#farcaster-and-social-tools) ·
 [Games](#games-and-world-prototypes) · [BitCraft](#bitcraft-community-tools) ·
 [Onchain tools](#onchain-data-and-tools) · [Research](#research-and-reference) ·
 [Creative work](#creative-work-and-planned-projects)
