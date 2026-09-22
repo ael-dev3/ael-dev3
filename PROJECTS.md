@@ -21,7 +21,6 @@ source reviewed in September 2026.
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [SnapMeter](https://github.com/ael-dev3/SnapMeter) | Rolling activity metrics with durable collection and visible source-quality states. | Dashboard and collector |
 | [Farcaster Context](https://github.com/ael-dev3/Clawberto-Farcaster-Context) | Searchable daily context from node data, with linked conversations and CSV/JSON exports. | Cached context site |
 | [Overlap](https://github.com/ael-dev3/Overlap) | People discovery through collaboration intent and explainable, deterministic matching. | Mini App prototype |
 | [Overlap DB](https://github.com/ael-dev3/Overlap-DB) | Reusable social snapshots and collection scripts, with recent context and recorded coverage limits. | Dataset and tooling |
