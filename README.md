@@ -6,18 +6,18 @@
 
 ## Warpkeep
 
-My main project is a persistent strategy game where you gather resources and
-develop your own keep. An early alpha is live; the next version is in development.
+I'm building a persistent strategy game where you gather resources and make
+a keep your own. An early alpha is live, and I'm working on the next version.
 
 [Website](https://warpkeep.com/) · [Source & development](https://github.com/ael-dev3/Warpkeep)
 
-## Selected projects
+## A few other projects
 
-- **[Ashen Hallow](https://github.com/ael-dev3/Ashen-Hallow)** — a browser fantasy autobattler with tactical deployment and army progression. [Play](https://ael-dev3.github.io/Ashen-Hallow/).
+- **[Ashen Hallow](https://github.com/ael-dev3/Ashen-Hallow)** — a fantasy autobattler you can play in your browser. Build an army and choose how it lines up for battle. [Play](https://ael-dev3.github.io/Ashen-Hallow/).
 - **[Degen Dogs](https://github.com/ael-dev3/Degen-Dogs-Mission-3)** — community auction analytics on Base, with searchable history and downloadable data. [Dashboard](https://ael-dev3.github.io/Degen-Dogs-Mission-3/).
-- **[Lyrics](https://github.com/ael-dev3/lyrics)** — bilingual lyric films with synchronized text and audio-reactive visuals.
+- **[Lyrics](https://github.com/ael-dev3/lyrics)** — lyric videos, English translations, and visuals that follow the music.
 
-## Engineering notes
+## Behind the projects
 
 [Game architecture](https://github.com/ael-dev3/Warpkeep/blob/main/docs/technical-architecture.md) ·
 [Gameplay tests](https://github.com/ael-dev3/Ashen-Hallow/blob/main/scripts/testGameplayScenarios.ts) ·

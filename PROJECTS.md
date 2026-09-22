@@ -1,8 +1,8 @@
 # Projects
 
-Public work in games, community tools, data, and creative coding. Each entry
-describes the project and its current status, with source and documentation in
-the linked repository. Status labels reflect the material reviewed in September 2026.
+A wider look at what I've been building and exploring. Each project has a short
+description and a status note; the linked repositories have the code and documentation.
+Status notes reflect the material reviewed in September 2026.
 
 [Profile](https://github.com/ael-dev3) · [Warpkeep](#warpkeep) · [Farcaster](#farcaster-and-social-tools) ·
 [Games](#games-and-world-prototypes) · [BitCraft](#bitcraft-community-tools) ·
