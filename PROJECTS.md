@@ -1,10 +1,12 @@
-# Public project catalog
+# Fortress inventory
 
-A wider view of my public work, grouped by purpose. Each repository holds its
-source, setup and current notes. Status labels reflect the documentation and
+The other rooms in the workshop: games, community tools, research, and unfinished
+experiments. Everything has a label; a few things are still under construction.
+Each entry says what it does and where it stands. Source, setup, and limitations
+live in the linked repositories. Status labels reflect the documentation and
 source reviewed in September 2026.
 
-[Profile](README.md) · [Warpkeep](#warpkeep) · [Farcaster](#farcaster-and-social-tools) ·
+[Back to the sky fortress](README.md) · [Warpkeep](#warpkeep) · [Farcaster](#farcaster-and-social-tools) ·
 [Games](#games-and-world-prototypes) · [BitCraft](#bitcraft-community-tools) ·
 [Onchain tools](#onchain-data-and-tools) · [Research](#research-and-reference) ·
 [Creative work](#creative-work-and-planned-projects)

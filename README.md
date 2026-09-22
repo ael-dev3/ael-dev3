@@ -4,18 +4,31 @@
   <img src="assets/wizard-clean.png" width="600" alt="A blue-robed wizard in a forest. Caption: A wizard does not concern himself with employment.">
 </p>
 
-<p align="center">Wandering wizard. The sky fortress won't maintain itself.</p>
+<p align="center">Wandering wizard. Keeper of a suspiciously organised sky fortress.</p>
 
-My main project is **[Warpkeep](https://warpkeep.com/)**, a persistent strategy
-game where you gather resources and build your own keep. An early alpha is live,
-with the next version in development. [Follow the work](https://github.com/ael-dev3/Warpkeep).
+Welcome in. I follow odd little ideas until they become something you can play,
+use, or watch. The goblins, unfortunately, are subject to regression testing.
 
-## Side quests, taken too far
+## The long quest: Warpkeep
 
-- **[Ashen Hallow](https://github.com/ael-dev3/Ashen-Hallow)** — a browser fantasy autobattler with tactical deployment and army progression. Even the goblins have regression tests. [Play](https://ael-dev3.github.io/Ashen-Hallow/).
-- **[Degen Dogs](https://github.com/ael-dev3/Degen-Dogs-Mission-3)** — community auction analytics on Base, with a rebuildable Python/SQL pipeline and downloadable data. [Explore the dashboard](https://ael-dev3.github.io/Degen-Dogs-Mission-3/).
-- **[Lyrics](https://github.com/ael-dev3/lyrics)** — bilingual lyric films with synchronized word highlighting, audio-reactive visuals, and frame-by-frame checks.
+A persistent strategy game where you gather resources and build a keep worth
+returning to. An early alpha is live; the next version is in development.
 
-[More side quests, carefully catalogued](PROJECTS.md)
+[Visit the world](https://warpkeep.com/) · [Source & development](https://github.com/ael-dev3/Warpkeep)
+
+## Things that escaped the workshop
+
+- **[Ashen Hallow](https://github.com/ael-dev3/Ashen-Hallow)** — a browser fantasy autobattler. Build an army, choose your formation, and see what survives. [Play a round](https://ael-dev3.github.io/Ashen-Hallow/).
+- **[Degen Dogs](https://github.com/ael-dev3/Degen-Dogs-Mission-3)** — community auction analytics on Base, with searchable history and downloadable data. [Explore the dashboard](https://ael-dev3.github.io/Degen-Dogs-Mission-3/).
+- **[Lyrics](https://github.com/ael-dev3/lyrics)** — bilingual lyric films with synchronized words and visuals that move with the music. The soundtrack acquired its own tooling.
+
+### The paperwork
+
+[Game architecture](https://github.com/ael-dev3/Warpkeep/blob/main/docs/technical-architecture.md) ·
+[Goblins under test](https://github.com/ael-dev3/Ashen-Hallow/blob/main/scripts/testGameplayScenarios.ts) ·
+[Rebuild the dashboard](https://github.com/ael-dev3/Degen-Dogs-Mission-3/blob/main/reconstruction/README.md) ·
+[Inside a lyric film](https://github.com/ael-dev3/lyrics/blob/main/projects/vedmy-lyric-film/evidence/final-verification.md)
+
+[Browse the fortress inventory](PROJECTS.md) — more projects, prototypes, and research, with their current status.
 
 [Website](https://warpkeep.com/) · [Farcaster](https://farcaster.xyz/0xael.eth) · [X](https://x.com/0xAell)
