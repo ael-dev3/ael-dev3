@@ -9,7 +9,7 @@
 I'm building a persistent strategy game where you gather resources and make
 a keep your own. An early alpha is live, and I'm working on the next version.
 
-[Website](https://warpkeep.com/) · [Source & development](https://github.com/ael-dev3/Warpkeep)
+[Website](https://warpkeep.com/) · [Published Alpha](https://github.com/ael-dev3/Warpkeep-Live)
 
 ## A few other projects
 
@@ -19,7 +19,6 @@ a keep your own. An early alpha is live, and I'm working on the next version.
 
 ## Behind the projects
 
-[Game architecture](https://github.com/ael-dev3/Warpkeep/blob/main/docs/technical-architecture.md) ·
 [Gameplay tests](https://github.com/ael-dev3/Ashen-Hallow/blob/main/scripts/testGameplayScenarios.ts) ·
 [Dashboard rebuild guide](https://github.com/ael-dev3/Degen-Dogs-Mission-3/blob/main/reconstruction/README.md) ·
 [Lyric film verification](https://github.com/ael-dev3/lyrics/blob/main/projects/vedmy-lyric-film/evidence/final-verification.md)

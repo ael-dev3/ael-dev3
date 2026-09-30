@@ -1,7 +1,7 @@
 # Projects
 
 A wider look at what I've been building and exploring. Each project has a short
-description and a status note; the linked repositories have the code and documentation.
+description and a status note; the linked sites and public repositories provide more detail.
 Status notes reflect the material reviewed in September 2026.
 
 [Profile](https://github.com/ael-dev3) · [Warpkeep](#warpkeep) · [Farcaster](#farcaster-and-social-tools) ·
@@ -13,8 +13,8 @@ Status notes reflect the material reviewed in September 2026.
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [Warpkeep](https://github.com/ael-dev3/Warpkeep) | A persistent strategy world: gather, choose, build and return to a personal keep. | Established alpha; 0.4 Verdant Citadel in development |
-| [Warpkeep Assets](https://github.com/ael-dev3/Warpkeep-Assets) | Buildings, citizens, landscapes and sound with dated provenance and exact release manifests. | Source archive; per-set terms apply |
+| [Warpkeep](https://warpkeep.com/) | A persistent strategy world: gather, choose, build and return to a personal keep. | Established alpha; 0.4 Verdant Citadel in development |
+| [Warpkeep Live](https://github.com/ael-dev3/Warpkeep-Live) | Generated Alpha frontend and its published licensing records. | Public release assets; private development source remains separate |
 | [Warpkeep Water Engine](https://github.com/ael-dev3/Warpkeep-Water-Engine) | Planned home for reusable water rendering; the implementation currently lives in Warpkeep. | Placeholder |
 
 ## Farcaster and social tools
