@@ -11,25 +11,6 @@ a keep your own. An early alpha is live, and I'm working on the next version.
 
 [Website](https://warpkeep.com/) · [Published Alpha](https://github.com/ael-dev3/Warpkeep-Live)
 
-## Gothic 3, from your own copy
-
-[Tervain](https://github.com/ael-dev3/Tervain) is my single-player high-fantasy
-RPG, in pre-production with a browser prototype. As study material for it, I
-built a viewer that draws Gothic 3's Ardea in the browser straight from an
-installed copy of the game. It reads the archives in your browser tab; no game
-files are hosted.
-
-[Open the viewer](https://ael-dev3.github.io/Tervain/gothic3-local/) with your own Gothic 3 · [How it works](https://github.com/ael-dev3/Tervain/blob/main/docs/engineering/gothic3-local.md)
-
-<p align="center">
-  <img src="assets/gothic3-local-coast.jpg" width="49%" alt="Tall grass on a sea cliff above a sandy beach, with mountains across the bay.">
-  <img src="assets/gothic3-local-ardea.jpg" width="49%" alt="Ardea's cobbled square from above, with thatched and shingled roofs and a palisade.">
-  <img src="assets/gothic3-local-forest.jpg" width="49%" alt="A grassy rise with lichen-covered rocks, ferns and dry grass beside a fir forest.">
-  <img src="assets/gothic3-local-bay.jpg" width="49%" alt="A watchtower on a cliff above a quiet bay and its sandy beach.">
-</p>
-
-<sub>Gothic 3 © THQ Nordic GmbH, developed by Piranha Bytes. Screenshots of the viewer drawing a locally installed copy; not affiliated with or endorsed by them.</sub>
-
 ## A few other projects
 
 - **[Ashen Hallow](https://github.com/ael-dev3/Ashen-Hallow)** — a fantasy autobattler you can play in your browser. Build an army and choose how it lines up for battle. [Play](https://ael-dev3.github.io/Ashen-Hallow/).
