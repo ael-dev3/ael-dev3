@@ -2,25 +2,34 @@
 
 A wider look at what I've been building and exploring. Each project has a short
 description and a status note; the linked sites and public repositories provide more detail.
-Status notes reflect the material reviewed in September 2026.
+Status notes reflect the material reviewed in November 2026.
 
-[Profile](https://github.com/ael-dev3) · [Warpkeep](#warpkeep) · [Farcaster](#farcaster-and-social-tools) ·
+[Profile](https://github.com/ael-dev3) · [Nullmere](#nullmere) · [Warpkeep](#warpkeep-halted) · [Farcaster](#farcaster-and-social-tools) ·
 [Games](#games-and-world-prototypes) · [BitCraft](#bitcraft-community-tools) ·
 [Onchain tools](#onchain-data-and-tools) · [Research](#research-and-reference) ·
 [Creative work](#creative-work-and-planned-projects)
 
-## Warpkeep
+## Nullmere
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [Warpkeep](https://warpkeep.com/) | A persistent strategy world: gather, choose, build and return to a personal keep. | Established alpha; 0.4 Verdant Citadel in development |
-| [Warpkeep Live](https://github.com/ael-dev3/Warpkeep-Live) | Generated Alpha frontend and its published licensing records. | Public release assets; private development source remains separate |
-| [Warpkeep Water Engine](https://github.com/ael-dev3/Warpkeep-Water-Engine) | Planned home for reusable water rendering; the implementation currently lives in Warpkeep. | Placeholder |
+| [Nullmere](https://github.com/ael-dev3/Nullmere) | A native macOS persistent multiplayer 4X strategy MMO: Swift/Metal client, SpacetimeDB realm, on-device AI. [Trailer](https://github.com/ael-dev3/Nullmere/releases/tag/trailer) | In active development |
+
+## Warpkeep (halted)
+
+Development has halted; Nullmere is the successor. Repositories are archived.
+
+| Project | Purpose | Status |
+| --- | --- | --- |
+| [Warpkeep](https://github.com/ael-dev3/Warpkeep) | A persistent strategy world built around a personal keep. | Halted; archived |
+| [Warpkeep Live](https://github.com/ael-dev3/Warpkeep-Live) | Published alpha frontend and its licensing records. | Archived |
+| [Warpkeep Water Engine](https://github.com/ael-dev3/Warpkeep-Water-Engine) | Planned home for reusable water rendering. | Archived placeholder |
 
 ## Farcaster and social tools
 
 | Project | Purpose | Status |
 | --- | --- | --- |
+| [Allthing](https://github.com/ael-dev3/Allthing) | A fast, independent Farcaster client on Snapchain and Hypersnap: read, cast, reply, schedule and attach media. Rust + Leptos on Cloudflare Workers. | Archived |
 | [Farcaster Context](https://github.com/ael-dev3/Clawberto-Farcaster-Context) | Searchable daily context from node data, with linked conversations and CSV/JSON exports. | Cached context site |
 | [Overlap](https://github.com/ael-dev3/Overlap) | People discovery through collaboration intent and explainable, deterministic matching. | Mini App prototype |
 | [Overlap DB](https://github.com/ael-dev3/Overlap-DB) | Reusable social snapshots and collection scripts, with recent context and recorded coverage limits. | Dataset and tooling |
@@ -33,7 +42,7 @@ Status notes reflect the material reviewed in September 2026.
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [Ashen Hallow](https://github.com/ael-dev3/Ashen-Hallow) | A fantasy autobattler with tactical deployment, deterministic combat and army progression across rounds. | Browser game |
+| [Ashen Hallow](https://github.com/ael-dev3/Ashen-Hallow) | A fantasy autobattler with tactical deployment, deterministic combat and army progression across rounds. | Browser game; archived |
 | [Mechabellum Prototype](https://github.com/ael-dev3/Mechabellum-prototype) | A positional autobattler experiment with upgrades, enemy deployments and simulation checks. | Earlier game prototype |
 | [DD.Game](https://github.com/ael-dev3/DD.Game) | An independent Degen Dogs underground-club concept; earlier contract experiments are preserved separately. | Static, non-interactive draft; paused |
 | [Clawgwarts](https://github.com/ael-dev3/Clawgwarts) | A Phaser academy world with agent simulations, interactive stations and a simulated action queue. | Interactive prototype |
@@ -51,7 +60,7 @@ Status notes reflect the material reviewed in September 2026.
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [Degen Dogs Mission 3](https://github.com/ael-dev3/Degen-Dogs-Mission-3) | Independent Base auction analytics, an inspectable archive and reproducible Python/SQLite exports. | Community dashboard and pipeline |
+| [Degen Dogs Mission 3](https://github.com/ael-dev3/Degen-Dogs-Mission-3) | Independent Base auction analytics, an inspectable archive and reproducible Python/SQLite exports. | Community dashboard and pipeline; archived |
 | [Silver Terminal](https://github.com/ael-dev3/Silver-terminal) | Hyperliquid SLV/USDC charts and downloadable candles, with a separate weekly historical reference. | Static chart site |
 | [Silver](https://github.com/ael-dev3/Silver) | Charting source and data pipelines behind the terminal and historical reference. | Source and data tooling |
 | [Ethereum Mainnet Tools](https://github.com/ael-dev3/Clawberto-eth-mainnet) | Ethereum inspection and transaction planning with deterministic JSON output. | Read/plan tools; no broadcasting |
@@ -76,7 +85,6 @@ Status notes reflect the material reviewed in September 2026.
 
 | Project | Purpose | Status |
 | --- | --- | --- |
-| [Lyrics / Tanisea](https://github.com/ael-dev3/lyrics) | Remotion lyric-film source, timing audits, rendering proofs and production masters. | Creative source and release archive |
 | [Neodym](https://github.com/ael-dev3/Neodym) | High-fantasy writing, Book One drafts, character studies and worldbuilding references. | Writing project |
 | [Portfolio](https://github.com/ael-dev3/Portfolio) | A planned Three.js portfolio with accessible interaction and project case studies. | Planning placeholder |
 | [FC_MA](https://github.com/ael-dev3/FC_MA) | Purpose and implementation are not yet documented. | Empty repository |
